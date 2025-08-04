@@ -36,7 +36,7 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row gap-4">
             <Button size="lg" className="bg-gradient-primary hover:shadow-glow transition-all duration-300">
-              View Portfolio
+              Get Started
             </Button>
             <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-accent">
               Learn More

@@ -19,8 +19,6 @@ const Footer = () => {
             <h3 className="font-semibold text-lg">Quick Links</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
               <li><a href="#features" className="hover:text-primary-foreground transition-colors">Features</a></li>
-              <li><a href="#portfolio" className="hover:text-primary-foreground transition-colors">Portfolio</a></li>
-              <li><a href="#contact" className="hover:text-primary-foreground transition-colors">Contact</a></li>
             </ul>
           </div>
 
@@ -34,17 +32,6 @@ const Footer = () => {
             </ul>
           </div>
 
-          <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Contact Info</h3>
-            <p className="text-sm text-primary-foreground/80">
-              Get in touch with us
-            </p>
-            <div className="text-sm text-primary-foreground/80">
-              <p>📧 avneesh.amity@gmail.com</p>
-              <p>📞 +91 7307890041</p>
-              <p>📍 Lucknow, UP</p>
-            </div>
-          </div>
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">

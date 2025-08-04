@@ -14,8 +14,6 @@ const Header = () => {
         <nav className="hidden md:flex items-center space-x-8">
           <a href="#features" className="text-muted-foreground hover:text-primary transition-colors">Features</a>
           
-          <a href="#portfolio" className="text-muted-foreground hover:text-primary transition-colors">Portfolio</a>
-          <a href="#contact" className="text-muted-foreground hover:text-primary transition-colors">Contact</a>
         </nav>
 
         <Button variant="default" className="hidden md:block">
