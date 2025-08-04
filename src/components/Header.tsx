@@ -13,7 +13,8 @@ const Header = () => {
         
         <nav className="hidden md:flex items-center space-x-8">
           <a href="#features" className="text-muted-foreground hover:text-primary transition-colors">Features</a>
-          
+          <a href="/dashboard" className="text-muted-foreground hover:text-primary transition-colors">Dashboard</a>
+          <a href="/login" className="text-muted-foreground hover:text-primary transition-colors">Login</a>
         </nav>
 
         <Button variant="default" className="hidden md:block">

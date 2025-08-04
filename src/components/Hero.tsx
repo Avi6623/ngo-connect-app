@@ -35,11 +35,11 @@ const Hero = () => {
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4">
-            <Button size="lg" className="bg-gradient-primary hover:shadow-glow transition-all duration-300">
+            <Button size="lg" className="bg-gradient-primary hover:shadow-glow transition-all duration-300" onClick={() => window.location.href = '/login'}>
               Get Started
             </Button>
-            <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-accent">
-              Learn More
+            <Button variant="outline" size="lg" className="border-primary text-primary hover:bg-accent" onClick={() => window.location.href = '/dashboard'}>
+              View Dashboard
             </Button>
           </div>
         </div>
