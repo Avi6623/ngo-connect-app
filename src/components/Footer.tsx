@@ -16,12 +16,11 @@ const Footer = () => {
           </div>
 
           <div className="space-y-4">
-            <h3 className="font-semibold text-lg">Services</h3>
+            <h3 className="font-semibold text-lg">Quick Links</h3>
             <ul className="space-y-2 text-sm text-primary-foreground/80">
-              <li><a href="#" className="hover:text-primary-foreground transition-colors">App Development</a></li>
-              <li><a href="#" className="hover:text-primary-foreground transition-colors">Web Development</a></li>
-              <li><a href="#" className="hover:text-primary-foreground transition-colors">UI/UX Design</a></li>
-              <li><a href="#" className="hover:text-primary-foreground transition-colors">Maintenance</a></li>
+              <li><a href="#features" className="hover:text-primary-foreground transition-colors">Features</a></li>
+              <li><a href="#portfolio" className="hover:text-primary-foreground transition-colors">Portfolio</a></li>
+              <li><a href="#contact" className="hover:text-primary-foreground transition-colors">Contact</a></li>
             </ul>
           </div>
 
