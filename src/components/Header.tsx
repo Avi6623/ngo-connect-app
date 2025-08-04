@@ -8,7 +8,7 @@ const Header = () => {
           <div className="w-8 h-8 bg-gradient-primary rounded-lg flex items-center justify-center">
             <span className="text-primary-foreground font-bold text-sm">N</span>
           </div>
-          <span className="font-bold text-xl text-foreground">NGO Dev Platform</span>
+          <span className="font-bold text-xl text-foreground">NGO Connect</span>
         </div>
         
         <nav className="hidden md:flex items-center space-x-8">

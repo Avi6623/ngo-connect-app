@@ -60,10 +60,10 @@ const Contact = () => {
                 </div>
 
                 <div className="pt-6 border-t border-border">
-                  <h3 className="font-semibold text-foreground mb-3">NTCC Project</h3>
+                  <h3 className="font-semibold text-foreground mb-3">About NGO Connect</h3>
                   <p className="text-muted-foreground text-sm">
-                    This application is developed as part of the National Technology Competition (NTCC) 
-                    project titled "App Development For NGOs" under the guidance of our faculty mentors.
+                    This application platform is designed to help NGOs develop and manage 
+                    their mobile applications with modern technology solutions.
                   </p>
                 </div>
               </CardContent>
