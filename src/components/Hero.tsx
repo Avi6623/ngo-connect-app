@@ -10,12 +10,12 @@ const Hero = () => {
         <div className="space-y-8 animate-fade-in">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-6xl font-bold text-foreground leading-tight">
-              App Development
-              <span className="block text-primary">For NGOs</span>
+              NGO Connect
+              <span className="block text-primary">Portal</span>
             </h1>
             <p className="text-xl text-muted-foreground leading-relaxed">
-              Empowering non-profit organizations with cutting-edge mobile applications 
-              to amplify their impact and reach communities worldwide.
+              A comprehensive management platform for non-profit organizations 
+              to streamline operations, manage volunteers, track donations, and amplify their impact.
             </p>
           </div>
           

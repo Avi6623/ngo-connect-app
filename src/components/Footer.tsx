@@ -36,7 +36,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-sm text-primary-foreground/60">
-            © 2024 NGO Connect. App Development For NGOs.
+            © 2024 NGO Connect Portal.
           </p>
         </div>
       </div>
